@@ -83,6 +83,17 @@ public class Lists {
         // menghapus, atau membersihkan elemen dalam LinkedList sama seperti yang Anda
         // lakukan dengan ArrayList.
 
+        // LinkedList untuk setiap element disebut node, setiapa node memiliki method
+        // Next
+        // single LinkedList hanya memiliki method Next
+        // double LinkedList memiliki dua method Next dan Previous
+
+        // berbeda dari ArrayList mengakses setiap elemenya langsung ke elemen yang
+        // dituju, LinkedList mengakses setiap node satu by satu, sebagai contoh
+        // terdapat 1 - 10 node, LinkedList mengakses mulai dari 1 2 3 etc seperti
+        // menghitung. contohnya bisa di liat di file Queuez.java implementasi
+        // LinkedList
+
         // method access element arraylist
         // get - set - remove - clear - size
 

@@ -2,6 +2,7 @@ import java.util.Stack;
 
 public class Stackz {
     public static void main(String[] args) {
+        // LILO (LAST IN LAST OUT)
         Stack<Integer> stack = new Stack<>();
         stack.push(1);
         stack.push(2);

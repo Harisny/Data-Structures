@@ -4,7 +4,7 @@ import java.util.Queue;
 
 public class Queuez {
     public static void main(String[] args) {
-        // Queue
+        // Queue -> FIFO(FIRST IN FIRST OUT)
         getSupermarket();
         // LinkedList -> implementasi dari queue dan list
         getPersonIterator();
